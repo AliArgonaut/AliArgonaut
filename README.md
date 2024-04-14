@@ -1,4 +1,5 @@
 <h1 align=center>Welcome to My Page!</h1>
+<p>I am a 22 year old software engineer with an interest in full stack web development, web applications, and machine learning</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <section align=center >
