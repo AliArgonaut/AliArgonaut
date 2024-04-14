@@ -7,7 +7,7 @@
   <img display=inline-block width=30px src = "images/HTML.svg">
   <img display=inline-block width=30px src = "images/JavaScript.svg">
     <img display=inline-block width=30px src = "images/NodeJS-Dark.svg">
-    <img display=inline-block width=30px src = "images/React.svg">
+    <img display=inline-block width=30px src = "images/React-Dark.svg">
     <img display=inline-block width=30px src = "images/Python-Dark.svg">
   <img display=inline-block width=30px src = "images/Docker.svg">
   
