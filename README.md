@@ -1,5 +1,5 @@
 <section align=center><h1>Welcome to My Page!</h1>
-  <h3>I am a 22 year old software engineer with an interest in full stack web development, web applications, and machine learning. Whether it be from my classes, interning, or personal projects, I am always excited to challenge myself, solve novel problems, and learn.</h3></section>
+  <p>I am a 22 year old software engineer with an interest in full stack web development, web applications, and machine learning. Whether it be from my classes, interning, or personal projects, I am always excited to challenge myself, solve novel problems, and learn.</p></section>
 
 <section align=center >
   <h3 align=center>Technologies</h3>
