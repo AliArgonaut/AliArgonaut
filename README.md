@@ -2,6 +2,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h2>Technologies</h2>
-<img width=30px src = "images/CSS.svg">
-<img width=30px src = "images/HTML.svg">
+<img display=inline-block width=30px src = "images/CSS.svg">
+<img display=inline-block width=30px src = "images/HTML.svg">
 
