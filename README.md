@@ -11,8 +11,5 @@
     <img align=center display=inline-block width=30px src = "images/React-Dark.svg">
     <img align=center display=inline-block width=30px src = "images/Python-Dark.svg">
   <img align=center display=inline-block width=30px src = "images/Docker.svg">
-  
-
-
 </section>
 
