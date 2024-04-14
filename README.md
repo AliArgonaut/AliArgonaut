@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <section>
-  <h3 align=left>Technologies</h3>
+  <h3 align=left>Software engineer looking to build the future</h3>
   <img display=inline-block width=30px src = "images/CSS.svg">
   <img display=inline-block width=30px src = "images/HTML.svg">
   <img display=inline-block width=30px src = "images/JavaScript.svg">
