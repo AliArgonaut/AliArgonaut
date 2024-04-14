@@ -2,5 +2,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h2>Technologies</h2>
-<img src = ".images/CSS.svg">
+<img src = "images/CSS.svg">
 
