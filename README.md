@@ -1,7 +1,7 @@
 <h1 align=center>Welcome to My Page!</h1>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<section>
+<section align=center >
   <h3 align=center>Technologies</h3>
   <img align=center display=inline-block width=30px src = "images/CSS.svg">
   <img align=center display=inline-block width=30px src = "images/HTML.svg">
