@@ -25,5 +25,7 @@ JSON         12 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <section align=center>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliArgonaut&theme=gruvbox-duo)](https://git.io/streak-stats)
+
 </section>
