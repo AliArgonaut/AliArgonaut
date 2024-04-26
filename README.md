@@ -9,6 +9,7 @@
     <img align=center display=inline-block width=30px src = "images/NodeJS-Dark.svg">
     <img align=center display=inline-block width=30px src = "images/React-Dark.svg">
     <img align=center display=inline-block width=30px src = "images/Python-Dark.svg">
+  <img align=center display=inline-block width=30px src= "images/Golang.svg"
   <img align=center display=inline-block width=30px src = "images/Docker.svg">
   
 
